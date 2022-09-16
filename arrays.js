@@ -53,5 +53,4 @@ for(let i = 0; i <bigOrSmallArray.length; i++) {
   }
 }
 
-console.log(bigOrSmallArray)
 console.log(answers);
