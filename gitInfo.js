@@ -12,6 +12,7 @@
 //CODE HERE
 
 let gitDefinition = "Git is a version control system that allows people to track changes on code projects. Git also prevents bugs and loss of progress."
+console.log(gitDefinition);
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -22,6 +23,7 @@ let gitDefinition = "Git is a version control system that allows people to track
 //CODE HERE
 
 let gitHubDefinition = "GitHub is a platform that allows users to upload their code projects and collaborate with other programmers."
+console.log(gitHubDefinition);
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -32,6 +34,7 @@ let gitHubDefinition = "GitHub is a platform that allows users to upload their c
 //CODE HERE
 
 let gitInitDefinition = "Git init creates a git repository."
+console.log(gitInitDefinition);
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -42,6 +45,7 @@ let gitInitDefinition = "Git init creates a git repository."
 //CODE HERE
 
 let gitCloneDefinition = "Git clone makes a copy of an existing repository in a new directory."
+console.log(gitCloneDefinition);
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -52,6 +56,7 @@ let gitCloneDefinition = "Git clone makes a copy of an existing repository in a 
 //CODE HERE
 
 let gitStatusDefinition = "Git status allows you to check which changes have been staged and which haven't."
+console.log(gitStatusDefinition);
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -67,6 +72,9 @@ let gitStatusDefinition = "Git status allows you to check which changes have bee
 let gitAddDefinition = "Git add changes a file from unstaged to staged."
 let gitAddCode = "git add ."
 
+console.log(gitAddDefinition);
+console.log(gitAddCode);
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -81,6 +89,9 @@ let gitAddCode = "git add ."
 let gitCommitDefinition = "Git commit takes a snapshot of a project's staged changes."
 let gitCommitCode = "git commit -m 'initial commit'"
 
+console.log(gitCommitDefinition);
+console.log(gitCommitCode);
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -91,3 +102,4 @@ let gitCommitCode = "git commit -m 'initial commit'"
 //CODE HERE
 
 let gitPushDefinition = "Git push uploads your commits from a local repository to a remote repository."
+console.log(gitPushDefinition);
